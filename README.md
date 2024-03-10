@@ -5,7 +5,7 @@
 <div><img src="Screenshot from 2024-03-10 20-47-52.png"></div>
 
 
-This is a simple website created using HTML and CSS for [your purpose here, e.g., a fictional online store].
+This simple website was created using HTML and CSS to gain my first-ever coding experience.
 
 ## Table of Contents
 
@@ -18,11 +18,10 @@ This is a simple website created using HTML and CSS for [your purpose here, e.g.
 
 ## Description
 
-This website is a demonstration of HTML and CSS skills. It includes a responsive header, navigation bar, hero section with images, and various other styled elements.
+This website is a demonstration of HTML and CSS skills. It includes a navigation bar, hero section with images, and various other styled elements.
 
 ## Features
 
-- Responsive design
 - Customized header and navigation
 - Hero section with images
 - Styled boxes for different sections
@@ -43,9 +42,5 @@ To run this website locally, follow these steps:
 
 ## Credits
 
-- Created by [Your Name]
-- Images sourced from [Image sources, if any]
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
+- Created by Satyam Katiyar.
+- Images sourced from Amazon.com (USA)
