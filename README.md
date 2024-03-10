@@ -1,4 +1,4 @@
-#Amazon Clone
+##Amazon Clone
 
 This is a simple website created using HTML and CSS for [your purpose here, e.g., a fictional online store].
 Table of Contents
