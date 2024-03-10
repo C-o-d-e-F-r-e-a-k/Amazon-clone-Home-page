@@ -1,7 +1,7 @@
-# Amazon Clone
-(my First Coding Website hehe)
+<h1 align="center">Amazon Clone</h1>
 
-
+<div><img src="Screenshot from 2024-03-10 20-23-10.png"></div>
+<div><img src="Screenshot from 2024-03-10 20-23-33.png"></div>
 
 This is a simple website created using HTML and CSS for [your purpose here, e.g., a fictional online store].
 
